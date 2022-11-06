@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ichenhe&count_private=true&show_icons=true&theme=dracula&custom_title=Progress in chasing dreams">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ichenhe&count_private=true&show_icons=true&theme=dracula&custom_title=Glance">
 
 # Hi, Chenhe here 👋
 
