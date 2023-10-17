@@ -17,13 +17,12 @@ A young man who is willing to devote himself to what he loves and to sacrifice t
 
 ## 📱 Devices in use
 
-![Galaxy S21](https://img.shields.io/badge/Galaxy%20S21-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
+![Galaxy S23](https://img.shields.io/badge/Galaxy%20S23-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![Galaxy Watch4](https://img.shields.io/badge/Galaxy%20Watch4-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
-![Galaxy Buds2](https://img.shields.io/badge/Galaxy%20Buds2-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
-![DJI Mavic Air](https://img.shields.io/badge/DJI%20Mavic%20Air-262626?style=flat-square)
+![Galaxy Buds 2 Pro](https://img.shields.io/badge/Galaxy%20Buds2Pro-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
+![DJI Air3](https://img.shields.io/badge/DJI%20Air3-262626?style=flat-square)
 ![Raspberry Pi 3B+](https://img.shields.io/badge/Raspberry%20Pi%203B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
 ![Synology DS720+](https://img.shields.io/badge/Synology%20DS720%2B-484E55?style=flat-square&logo=synology&logoColor=ffffff)
-![ASUS AC86U](https://img.shields.io/badge/ASUS%20AC86U-D60004?style=flat-square&logo=asus&logoColor=ffffff)
 
 ## 📫 Get in touch
 
